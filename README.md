@@ -4,16 +4,15 @@
 
 # 0. Videos of running original LLMs, CEE knowledge-incorporated LLMs, and CEE-QA prototype
 
-![GIF for running video of original LLMs](https://github.com/user-attachments/assets/310641bb-7534-4ce8-b24d-8d019d9e2dcb)
+![GIF for running video of original LLMs](https://github.com/user-attachments/assets/970f264c-906c-45e7-9c74-abc2efb39116)
 
 ↑↑↑Multiple original LLMs simultaneously answering the CEE-related questions
 
-![GIF for running video of CEE knowledge-incorporated LLMs](https://github.com/user-attachments/assets/336a4854-279c-4a3a-8f79-6d3699c737ad)
+![GIF for running video of CEE knowledge-incorporated LLMs](https://github.com/user-attachments/assets/a9213b70-06e3-4b90-bd06-f931bf7bd16c)
 
 ↑↑↑Multiple CEE knowledge-incorporated LLMs simultaneously answering the CEE-related questions
 
-![GIF for running video of CEE-QA prototype](https://github.com/user-attachments/assets/9d24b019-2fa3-41f6-8d25-5bad45a3235e)
-
+![GIF for running video of CEE-QA prototype](https://github.com/user-attachments/assets/4fe81b84-3a74-43e0-b68b-c5c8f7938409)
 
 ↑↑↑CEE-QA prototype answering the CEE-related question
 
