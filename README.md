@@ -28,7 +28,7 @@
 
 The table below shows all supplemental materials. All sheets in Tables S1, S2, and S3 are arranged in the order shown in this table.
 
-![Inventory of supplemental materials](https://github.com/user-attachments/assets/ccf7e4fe-adab-4df7-8955-85936642a494)
+![Inventory of supplemental materials](https://github.com/user-attachments/assets/27f25ea7-a957-491c-8259-bfb6bcd3b421)
 
 All supplemental materials are provided in the GitHub repository (https://github.com/Orange-1212/QA-for-CEE). Besides the GitHub repository, the CEE-QA test question set is shared in the Hugging Face repository (https://huggingface.co/datasets/Cxh1212/QA_test_question_set_for_CEE).
 
