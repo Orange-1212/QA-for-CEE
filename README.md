@@ -18,7 +18,7 @@
 
 # 1. General introduction of this repository
 
-1.1 This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by University of XXX in UK and XXX University in China.
+1.1 This repository aims at providing the codes and data regarding the paper entitled “……” for the public, and it is developed by Southeast University.
 
 1.2 We greatly appreciate the selfless spirits of these voluntary contributors of a series of open python libraries, including langchain, llamaindex, openai, chatglm, numpy, and so on. Our work stands on the shoulders of these giants.
 
