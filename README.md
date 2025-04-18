@@ -28,9 +28,9 @@
 
 The table below shows all supplemental materials. All sheets in Tables S1, S2, and S3 are arranged in the order shown in this table.
 
-![Inventory of supplemental materials](https://github.com/user-attachments/assets/caecc6e5-9e3b-40eb-a7da-baefa8f7e41b)
+![Inventory of supplemental materials](https://github.com/user-attachments/assets/ccf7e4fe-adab-4df7-8955-85936642a494)
 
-All supplemental materials are provided in the GitHub repository (https://github.com/0AnonymousSite0/QA_for_CEE). Besides the GitHub repository, the CEE-QA test question set is shared in the Hugging Face repository (https://huggingface.co/datasets/AnonymousSite/QA_test_question_set_for_CEE).
+All supplemental materials are provided in the GitHub repository (https://github.com/Orange-1212/QA-for-CEE). Besides the GitHub repository, the CEE-QA test question set is shared in the Hugging Face repository (https://huggingface.co/datasets/Cxh1212/QA_test_question_set_for_CEE).
 
 # 3. LLM Leaderboard for CEE-QA
 
@@ -59,7 +59,7 @@ The test results of different LLMs on the CEE-QA test question set are shown bel
 
 # 4. Reuse of the CEE-KG with three optional versions
 
-![Three optional versions of CEE-KG](https://github.com/user-attachments/assets/4afb80a9-3d02-4ecd-a360-f0ed6bd4ad8a)
+![Three optional versions of CEE-KG](https://github.com/user-attachments/assets/6f0f79b3-f74f-43d2-b477-8b35c9f7f914)
 
 ↑↑↑Three optional versions of CEE-KG
 
@@ -70,15 +70,15 @@ The CEE-KG is available through this link (https://drive.google.com/drive/folder
 
 The CEE-QA test question set containing 2,921 questions is manually annotated with four features, including the question source, single-answer question or multiple-answer question, and calculation question or non-calculation question.
 
-![CEE-QA test question set in the Hugging Face repository](https://github.com/user-attachments/assets/c99832e5-16c4-430e-a596-32700d94bc51)
+![CEE-QA test question set in the Hugging Face repository](https://github.com/user-attachments/assets/5000d9f6-0e64-4be7-be1e-bfa52f9ffd5f)
 
 ↑↑↑The CEE-QA test question set in the Hugging Face repository
 
-![The annotations of CEE questions’ characteristics](https://github.com/user-attachments/assets/948babe0-14d3-4a77-b449-7e1c004fae86)
+![The annotations of CEE questions’ characteristics](https://github.com/user-attachments/assets/942d3379-b653-4cec-bd1d-f365351c17b2)
 
 ↑↑↑The annotations of CEE questions’ characteristics
 
-More information about the qustion set can be found through these links (https://huggingface.co/datasets/AnonymousSite/QA_test_question_set_for_CEE)
+More information about the qustion set can be found through these links (https://huggingface.co/datasets/Cxh1212/QA_test_question_set_for_CEE)
 
 # 6. Reuse of the codes for running original LLMs, CEE knowledge-incorporated LLMs and CEE-QA prototype
 
@@ -118,15 +118,15 @@ Before submitting these codes to Github, all of them have been tested to be well
 
 Closed-source LLMs are API-only, and open-source LLMs are deployed directly on the AutoDL Cloud server.
 
-![Codes for running CEE original LLMs](https://github.com/user-attachments/assets/fe16aa00-a88c-4078-b216-59c1ed142874)
+![Codes for running CEE original LLMs](https://github.com/user-attachments/assets/51c62eb3-176b-4cd2-8aa6-cce63034971d)
 
 ↑↑↑Codes for running original LLMs
 
-![Codes for running CEE knowledge-incorporated LLMs](https://github.com/user-attachments/assets/e8172a3b-39be-4265-b6b5-77fae383bdca)
+![Codes for running CEE knowledge-incorporated LLMs](https://github.com/user-attachments/assets/da350063-f4d8-4e12-8117-cfe304388ae1)
 
 ↑↑↑Codes for running CEE knowledge-incorporated LLMs
 
-![Codes for deploying and running the CEE-QA prototype](https://github.com/user-attachments/assets/f0dc7543-c729-44f5-af82-eab18aca8462)
+![Codes for deploying and running the CEE-QA prototype](https://github.com/user-attachments/assets/7aa1c95e-ea22-4698-b13e-d1e8d2be62db)
 
 ↑↑↑Codes for deploying and running CEE-QA prototype
 
